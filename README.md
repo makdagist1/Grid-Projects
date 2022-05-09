@@ -33,17 +33,28 @@ Proje 1 Navbar
 
 ![image](https://user-images.githubusercontent.com/102905227/167357554-1a86895d-30e5-4884-ad94-e5d878a04b6f.png)
 
+
+
+
 Project 2 Hero 
 
 ![image](https://user-images.githubusercontent.com/102905227/167357692-27c87777-5790-405d-bbc0-ccbadafb5ea2.png)
+
+
+
 
 Project 3 Cards 
 
 ![image](https://user-images.githubusercontent.com/102905227/167357885-5706744b-8e17-4caa-846c-765d893ec3e6.png)
 
+
+
+
 Project 4 Tiles 
 
 ![image](https://user-images.githubusercontent.com/102905227/167358127-03d78879-0ee7-4487-b9cc-eff128153e35.png)
+
+
 
 Project 5 Layout
 
