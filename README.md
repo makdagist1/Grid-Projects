@@ -1,4 +1,4 @@
-# Grid-Projects
+# Grid-Projects  https://makdagist1.github.io/Grid-Projects/
 
 Başlamadan önce bilmemiz gereken iki yeni özellik var. Font awesome, CSS Variables. 
 
